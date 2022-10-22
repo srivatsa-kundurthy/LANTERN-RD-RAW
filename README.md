@@ -2,7 +2,7 @@
 
 Release of LANTERN-RD dataset containing image URLs. 
 
-This release follows the first stable release. Note that this release includes all automatically filtered URLs. Manual filtration is recommended (See paper).
+NOTE: This release includes all automatically filtered URLs. Manual filtration is recommended (See paper).
 
 Please star/fork this repository should the dataset be utilized, and cite the work as follows:
 
